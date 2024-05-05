@@ -12,4 +12,3 @@ data_source retail:
 soda_cloud:
   host: cloud.soda.io
   api_key_id: 8c333d6e-af8d-4f3a-abb6-fb0510a724b4
-  api_key_secret: NEvODXAin584GVDxss4iXzsiifVqqFAwWZj7T_a13Ww6GLoUnPVdOw
