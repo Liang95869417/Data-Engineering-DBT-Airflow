@@ -1,5 +1,4 @@
-# Data-Engineering-DBT-Airflow
----
+# Online Retail Data Pipeline Project
 ## Introduction
 
 Welcome to the Retail Data Pipeline Project. This initiative is dedicated to exploring and demonstrating the construction of a robust data pipeline tailored for retail analytics. Utilizing Apache Airflow and integrating multiple advanced data processing tools and technologies, this project covers a comprehensive workflow from data ingestion to analytics and reporting.
