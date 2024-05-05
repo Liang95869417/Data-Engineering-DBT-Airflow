@@ -161,3 +161,5 @@ cython_debug/
 service_account.json
 include/soda/configuration.yml
 dbt_packages
+include/metabase-data/metabase.db/metabase.db.trace.db
+include/metabase-data/metabase.db/metabase.db.mv.db
